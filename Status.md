@@ -79,7 +79,7 @@ REG ADD "HKLM\SYSTEM\CurrentControlSet\Enum\ACPI\QCOM0597\0\Device Parameters" /
 | Feature                | Notes                                                                                   | Status         |
 |------------------------|-----------------------------------------------------------------------------------------|----------------|
 | 📲 Brightness control  |                                                                                         | ✅            |
-| 🎆 OpenCL Support      | In certain scenarios, it can provide support for OpenCL.                                | ✅            |
+| 🎆 OpenCL Support      | In certain scenarios, it can provide support for OpenCL.                                | ❌            |
 | 🎆 X64 simulation      |                                                                                         | ✅            |
 
 ### GPU-Panel Status
@@ -88,17 +88,12 @@ REG ADD "HKLM\SYSTEM\CurrentControlSet\Enum\ACPI\QCOM0597\0\Device Parameters" /
 
 | Panel                          | Notes                                                                                   | Status         |
 |---------------------------------|----------------------------------------------------------------------------------------|----------------|
-| 🖥️ Samsung EA8076-F1mp-cmd  | Main support                                                                            | ✅            |
-| 🖥️ Samsung EA8076-F1p2-cmd  | It is only slightly different from f1mp and can still be used                           | ✅            |
-| 🖥️ Samsung EA8076-F1p2_2-cmd| Not tested                                                                              | ❌            |
-| 🖥️ Samsung EA8076-F1-cmd    | Not tested                                                                              | ❌            |
-| 🖥️ Samsung EA8076-cmd       | Not tested                                                                              | ❌            |
+| 🖥️ Samsung EBL4N-F9mp-cmd  | Main support                                                                            | ✅            |
+| 🖥️ Samsung EBl4N-F1p2-cmd  | It is only slightly different from f1mp and can still be used                           | ✅            |
+| 🖥️ Samsung EB4N4T-F1p2_2-cmd| Not tested                                                                              | ❌            |
+| 🖥️ Samsung HUESOS-F1-cmd    | Not tested                                                                              | ❌            |
+| 🖥️ Samsung HUESOS-cmd       | Shit Not work.                                                                              | ❌            |
 
 ## 🌄 Future Development
 > [!NOTE]
-> - I plan or hope to make some improvements in the following areas, but due to some depressive feelings and sleep issues, this may be postponed indefinitely, and the completion time is to be determined.
-
-* Improve the multi-finger input experience of the touch driver.
-* Implement basic control over the wireless charging chip.
-* Optimize standby power consumption and enhance battery life.
-* etc.. 
+> - wtf
