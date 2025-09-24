@@ -1,24 +1,25 @@
 # Main Status
-- Device: Xiaomi 9(Cepheus)
+- Device: Xiaomi Mix Alpha (Draco)
 > [!IMPORTANT]
+> **This guide is joke. Please dont try it on your device.**
 > **This description is for reference only. It does not represent any commitment to develop Windows on XIAOMI 9 in any way, nor does it mean that all functions will be available or development will be completed forever. You should not buy this device for the purpose of using Windows on it, and hope that it will have complete functions in the end. The functions available today should be considered as the most you can get.We should take this into consideration when purchasing. Don't think we will make everything normal.**
 
 | Feature                | Notes                                                                                   | Status         |
 |------------------------|-----------------------------------------------------------------------------------------|----------------|
-| 🔊 Audio               |                                                                                         | ✅            |
-| ♋ Cellular Data       |                                                                                         | ✅            |
-| 🛜 WiFi                |                                                                                         | ✅            |
-| 🔵 Bluetooth           |                                                                                         | ✅            |
-| 📦 UFS                 |                                                                                         | ✅            |
-| 🎆 GPU                 |                                                                                         | ✅            |
+| 🔊 Audio               |                                                                                         | ❌            |
+| ♋ Cellular Data       |                                                                                         | ❌            |
+| 🛜 WiFi                |                                                                                         | ❌            |
+| 🔵 Bluetooth           |                                                                                         | ❌            |
+| 📦 UFS                 |                                                                                         | ❌            |
+| 🎆 GPU                 |                                                                                         | ❌            |
 | 🔋 Battery             |                                                                                         | ✅            |
-| ⌨️ Buttons             |                                                                                         | ✅            |
-| 🌏 Location            |                                                                                         | ✅            |
+| ⌨️ Buttons             |                                                                                         | ❌            |
+| 🌏 Location            |                                                                                         | ❌           |
 | 🪵 USB                 |                                                                                         | ✅            |
 | 🧭 Sensor              |                                                                                         | ✅            |
 | 👆 Touch               |                                                                                         | ✅            |
 | 🛡️ TPM                 | Not support versions below Windows 11 22H2.                                             | ✅            |
-| 🔌 Type-C Charge       | Slow charging only.                                                                     | ✅            |
+| 🔌 Type-C Charge       | Idk why lol charging only.                                                                     | ✅            |
 | 🔌 Wireless charge     | Although it does not have driver support, it can still be used.Slow charging only.      | ✅            |
 | 📳 Vibration motor     | Testing required.                                                                       | ⚠️            |
 | 🔦 LED                 | Testing required.                                                                       | ⚠️            |
@@ -33,10 +34,10 @@
 ### Various functions of Audio
 | Feature                | Notes                                                                                   | Status         |
 |------------------------|-----------------------------------------------------------------------------------------|----------------|
-| 🔉 Audio Speaker       |                                                                                         | ✅            |
-| 🔉 Handset Speaker     |                                                                                         | ✅            |
-| 🎙️ Internal Top Mic    |                                                                                         | ✅            |
-| 🎙️ Internal Bottom Mic |                                                                                         | ✅            |
+| 🔉 Audio Speaker       |                                                                                         | ❌           |
+| 🔉 Handset Speaker     |                                                                                         | ❌            |
+| 🎙️ Internal Top Mic    |                                                                                         | ❌            |
+| 🎙️ Internal Bottom Mic |                                                                                         | ❌            |
 
 ## 🧭 Sensors
 ### Various functions of Sensors
