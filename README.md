@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/n00b69/woa-cepheus/blob/main/cepheus.png" width="350" alt="Windows 11 running on a Xiaomi Mix Alpha">
+<img align="right" src="https://github.com/misha99fr/woa-draco/blob/main/571e194d-9cca-421a-8fd3-30e2b50bb2ff_removalai_preview.png" width="350" alt="Windows 11 running on a Xiaomi Mix Alpha">
 
 # Running Windows on the Mi Mix Alpha
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/tdst1)
