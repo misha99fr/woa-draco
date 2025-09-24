@@ -1,11 +1,14 @@
-<img align="right" src="https://github.com/n00b69/woa-cepheus/blob/main/cepheus.png" width="350" alt="Windows 11 running on a Xiaomi Mi 9">
+**This Guide is Joke, Dont try on a real device.**
+<img align="right" src="https://github.com/misha99fr/woa-draco/blob/main/571e194d-9cca-421a-8fd3-30e2b50bb2ff_removalai_preview.png" width="350" alt="Windows 11 running on a Xiaomi Mix Alpha">
 
-# Running Windows on the Xiaomi Mi 9
+# Running Windows on the Xiaomi Mix Alpha
 
 ## Partitioning your device
 
 ### Prerequisites
 - Unlocked bootloader
+- Brain(VERY IMPORTANT)
+- 3000$ to afford mi mix alpha
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
@@ -159,7 +162,7 @@ adb shell partition
 
 </details>
 
-## [Next step: Rooting your phone](/guide/2-root.md)
+## [Next step: Rooting your phone](2-root.md)
 
 
 
