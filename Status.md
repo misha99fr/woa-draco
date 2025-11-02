@@ -2,7 +2,7 @@
 - Device: Xiaomi Mix Alpha (Draco)
 > [!IMPORTANT]
 > **This guide is joke. Please dont try it on your device.**
-> **This description is for reference only. It does not represent any commitment to develop Windows on XIAOMI 9 in any way, nor does it mean that all functions will be available or development will be completed forever. You should not buy this device for the purpose of using Windows on it, and hope that it will have complete functions in the end. The functions available today should be considered as the most you can get.We should take this into consideration when purchasing. Don't think we will make everything normal.**
+> **This description is for reference only. It does not represent any commitment to develop Windows on XIAOMI Mix Alpha in any way, nor does it mean that all functions will be available or development will be completed forever. You should not buy this device for the purpose of using Windows on it, and hope that it will have complete functions in the end. The functions available today should be considered as the most you can get.We should take this into consideration when purchasing. Don't think we will make everything normal.**
 
 | Feature                | Notes                                                                                   | Status         |
 |------------------------|-----------------------------------------------------------------------------------------|----------------|
